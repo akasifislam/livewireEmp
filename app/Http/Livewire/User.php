@@ -10,7 +10,7 @@ class User extends Component
     {
         return <<<'blade'
             <div>
-                {{-- If your happiness depends on money, you will never be happy with yourself. --}}
+                <h1> This is user component </h1>
             </div>
         blade;
     }
